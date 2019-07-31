@@ -44,6 +44,8 @@ h1,h2,h3,h4,h5,h6{ line-height: 1.5; font-weight: inherit; }
 
 h1,h2,h3{ font-family: 'Poppins', cursive; }
 
+.detail-education{line-height: 1.6; font-size: 1.05em; font-weight: 400; color: #777;}
+
 p{ line-height: 1.6; font-size: 1.05em; font-weight: 400; color: #777; }
 
 h1{ font-size: 4em; line-height: 1; }
@@ -64,7 +66,8 @@ b{ font-weight: 600; }
 
 img{ width: 100%; }
 
-li{ list-style: none; display: inline-block; }
+.social-icon{ list-style: none; display: inline-block; }
+
 
 span{ display: inline-block; }
 
